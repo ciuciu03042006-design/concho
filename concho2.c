@@ -12,7 +12,7 @@ int main() {
     int tich = a * b;
 
     printf("Tong hai so la: %d\n", tich);
-    
+    //li la con cho ngu
     return 0;
 }
 
