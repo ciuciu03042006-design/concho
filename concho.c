@@ -9,7 +9,7 @@ int main() {
     printf("Nhap so thu hai: ");
     scanf("%d", &b);
 
-    int tong = a + b;
+    int tong = a + b + a + b;
 
     printf("Tong hai so la: %d\n", tong);
     
